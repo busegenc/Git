@@ -12,7 +12,7 @@
 
 ## **Documents**
 * [Orijinal (ENG)](https://git-scm.com/book/en/v2)
-* [Orijinal (TR)](https://git-scm.com/book/tr/v2)
+* [Orijinal (TR)](https://git-scm.com/book/tr/v1)
 * [Atlassian](https://www.atlassian.com/git/)
 * [Git Basit Rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
